@@ -4,3 +4,5 @@
 #### これはH4ヘッダーです ####
 ##### これはH5ヘッダーです #####
 ###### これはH6ヘッダーです ######
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
